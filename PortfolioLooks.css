@@ -1,4 +1,4 @@
-/* This is the css file of ZibeBr */
+/* This is the css file of ZibeBr in git repo my_portfolio */
 html {
   scroll-behavior: smooth;
 }
@@ -136,6 +136,19 @@ nav ul li:hover {
   border-radius: 10px;
   transition: background-color 300ms, transform 300ms;
 }
+.about-info .about-info-icon {
+  width: 60px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 999;
+  padding: 10px;
+  visibility: hidden;
+  transition: visibility 250ms;
+}
+.about-info:hover .about-info-icon {
+  visibility: visible;
+}
 .about-info p {
   transition: color 300ms;
 }
@@ -153,13 +166,6 @@ nav ul li:hover {
 .about-info:hover h4 {
   color: #000;
 }
-.about-info-icon {
-  width: 60px;
-  position: fixed;
-  top: 0;
-  right: 0;
-  z-index: 999;
-}
 
 /* CV */
 #cv {
@@ -168,6 +174,9 @@ nav ul li:hover {
   padding-right: 50px;
   padding-top: 110px;
   padding-bottom: 0;
+}
+.cv {
+  padding-right: 50px;
 }
 .cv-icon {
   display: inline-block;
@@ -234,4 +243,20 @@ nav ul li:hover {
 .contact-icon {
   display: inline-block;
   width: 30px;
+}
+.contact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+  height: 300px;
+  padding-right: 50px;
+}
+.contact-logos {
+  width: 22px;
+  display: inline-block;
+}
+.contact h4 {
+  display: inline-block;
+  padding: 3px;
 }
