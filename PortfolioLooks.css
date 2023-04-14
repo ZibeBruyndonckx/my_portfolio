@@ -36,7 +36,7 @@ html {
     display: inline-block;
   }
   h2 {
-    font-size: 45px;
+    font-size: 40px;
     display: inline-block;
   }
   h3 {
@@ -266,10 +266,9 @@ html {
     display: inline-block;
     padding: 3px;
   }
-
   /* Disclaimer*/
 }
-@media (min-width: 758.6px) and (max-width: 1121.59px) {
+@media (min-width: 848px) and (max-width: 1121.59px) {
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -489,8 +488,8 @@ html {
     padding: 16px;
   }
   .cv-card {
-    width: 200px;
-    height: 133.5px;
+    width: 180px;
+    height: 170px;
     display: flexbox;
     justify-content: left;
     transition: background-color 300ms;
@@ -536,7 +535,7 @@ html {
 
   /* Disclaimer*/
 }
-@media (max-width: 758.59px) {
+@media (max-width: 847.9px) {
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -548,7 +547,7 @@ html {
   p {
     color: #ffff;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 300;
   }
   h1,
@@ -566,26 +565,26 @@ html {
     font-weight: 500;
   }
   h1 {
-    font-size: 65px;
+    font-size: 45px;
     display: inline-block;
   }
   h2 {
-    font-size: 40px;
+    font-size: 30px;
     display: inline-block;
   }
   h3 {
-    font-size: 30px;
+    font-size: 23px;
   }
   h4 {
-    font-size: 22px;
+    font-size: 18px;
   }
   h5 {
-    font-size: 16px;
+    font-size: 14px;
     color: #000;
     text-align: right;
   }
   h6 {
-    font-size: 0.5px;
+    font-size: 1px;
     color: #000;
   }
   /* Header css*/
@@ -593,7 +592,7 @@ html {
     position: fixed;
     z-index: 100;
     width: 100%;
-    height: 100px;
+    height: 66.5px;
   }
   nav {
     z-index: 99;
@@ -601,22 +600,22 @@ html {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding-left: 25px;
-    padding-right: 50px;
+    padding-left: 16.5px;
+    padding-right: 33.5px;
     background-color: #000;
-    border: #ffd700 3px solid;
+    border: #ffd700 2px solid;
   }
   ul {
     display: block;
     list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    padding-inline-start: 25px;
+    padding-inline-start: 16.5px;
   }
   .logo {
-    height: 112.8px;
+    height: 75.2px;
     width: auto;
   }
   .slogan {
@@ -624,13 +623,13 @@ html {
   }
   nav ul li {
     display: inline-block;
-    margin: 10px 20px;
+    margin: 6.5px 13.5px;
     transition: transform 300ms;
   }
   nav ul li a {
     color: #ffff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 13.5px;
     transition: color 300ms;
   }
   nav ul li a:hover {
@@ -643,28 +642,28 @@ html {
 
   /* Home */
   #home {
-    scroll-padding-top: 110px;
-    padding-top: 110px;
-    padding-left: 50px;
-    padding-right: 50px;
+    scroll-padding-top: 73.5px;
+    padding-top: 73.5px;
+    padding-left: 33.5px;
+    padding-right: 33.5px;
     padding-bottom: 0;
   }
   .home-icon {
     display: inline-block;
-    width: 30px;
+    width: 20px;
   }
 
   /* About */
   #about {
-    scroll-padding-top: 110px;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 110px;
+    scroll-padding-top: 73.5px;
+    padding-left: 33.5px;
+    padding-right: 33.5px;
+    padding-top: 73.5px;
     padding-bottom: 0;
   }
   .about-icon {
     display: inline-block;
-    width: 30px;
+    width: 20px;
   }
   .about {
     display: grid;
@@ -680,12 +679,12 @@ html {
     transition: background-color 300ms, transform 300ms;
   }
   .about-info .about-info-icon {
-    width: 60px;
+    width: 40px;
     position: fixed;
     top: 0;
     right: 0;
     z-index: 999;
-    padding: 10px;
+    padding: 6.5px;
     visibility: hidden;
     transition: visibility 250ms;
   }
@@ -712,15 +711,15 @@ html {
 
   /* CV */
   #cv {
-    scroll-padding-top: 110px;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 110px;
+    scroll-padding-top: 73.5px;
+    padding-left: 33.5px;
+    padding-right: 33.5px;
+    padding-top: 73.5px;
     padding-bottom: 0;
   }
   .cv-icon {
     display: inline-block;
-    width: 30px;
+    width: 20px;
   }
   .cv-vertical-scroll::-webkit-scrollbar {
     width: 32px;
@@ -756,8 +755,8 @@ html {
     padding: 16px;
   }
   .cv-card {
-    width: 300px;
-    height: 200px;
+    width: 180px;
+    height: 170px;
     display: flexbox;
     justify-content: left;
     transition: background-color 300ms;
@@ -774,15 +773,15 @@ html {
 
   /* Contact me*/
   #contact {
-    scroll-padding-top: 110px;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 110px;
+    scroll-padding-top: 73.5px;
+    padding-left: 33.5px;
+    padding-right: 33.5px;
+    padding-top: 73.5px;
     padding-bottom: 0;
   }
   .contact-icon {
     display: inline-block;
-    width: 30px;
+    width: 20px;
   }
   .contact {
     display: flex;
@@ -793,7 +792,7 @@ html {
     padding-right: 50px;
   }
   .contact-logos {
-    width: 22px;
+    width: 14.5px;
     display: inline-block;
   }
   .contact h4 {
