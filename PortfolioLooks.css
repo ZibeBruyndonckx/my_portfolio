@@ -535,7 +535,7 @@ html {
 
   /* Disclaimer*/
 }
-@media (max-width: 847.9px) {
+@media (min-width: 801px) and (max-width: 847.9px) {
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
