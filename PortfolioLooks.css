@@ -787,7 +787,7 @@ html {
     padding: 3px;
   }
 }
-@media (min-width: 664px) and (max-width: 800.9px) {
+@media (min-width: 703px) and (max-width: 800.9px) {
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -821,7 +821,7 @@ html {
     display: inline-block;
   }
   h2 {
-    font-size: 4vh;
+    font-size: 3.9vh;
     display: inline-block;
   }
   h3 {
@@ -863,7 +863,7 @@ html {
     padding-inline-start: 16.5px;
   }
   .logo {
-    height: 75.2px;
+    height: 65.2px;
     width: auto;
     margin-left: 5px;
   }
@@ -1049,7 +1049,7 @@ html {
     padding: 3px;
   }
 }
-@media (max-width: 663.9px) and (min-width: 585px) {
+@media (max-width: 702.9px) and (min-width: 555px) {
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -1083,7 +1083,7 @@ html {
     display: inline-block;
   }
   h2 {
-    font-size: 3vh;
+    font-size: 4vw;
     display: inline-block;
   }
   h3 {
@@ -1115,7 +1115,7 @@ html {
     border: #ffd700 2px solid;
   }
   ul {
-    display: block;
+    display: none;
     list-style-type: disc;
     margin-block-start: 0.67em;
     margin-block-end: 0.67em;
@@ -1131,6 +1131,7 @@ html {
   }
   .slogan {
     color: #ffd700;
+    padding-right: 150px;
   }
   nav ul li {
     display: inline-block;
@@ -1311,7 +1312,7 @@ html {
     padding: 3px;
   }
 }
-@media (max-width: 584.9px) {
+@media (max-width: 554.9px) and (min-width: 416.1px) {
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -1345,7 +1346,7 @@ html {
     display: inline-block;
   }
   h2 {
-    font-size: 3vh;
+    font-size: 4vw;
     display: inline-block;
   }
   h3 {
@@ -1418,8 +1419,8 @@ html {
   #home {
     scroll-padding-top: 73.5px;
     padding-top: 73.5px;
-    padding-left: 33.5px;
-    padding-right: 33.5px;
+    padding-left: 13.5px;
+    padding-right: 13.5px;
     padding-bottom: 0;
   }
   .home-icon {
@@ -1430,8 +1431,8 @@ html {
   /* About */
   #about {
     scroll-padding-top: 73.5px;
-    padding-left: 33.5px;
-    padding-right: 33.5px;
+    padding-left: 13.5px;
+    padding-right: 13.5px;
     padding-top: 73.5px;
     padding-bottom: 0;
   }
@@ -1442,7 +1443,7 @@ html {
   .about {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
+    grid-gap: 13.3px;
   }
   .about-info {
     min-width: 60px;
@@ -1487,8 +1488,8 @@ html {
   /* CV */
   #cv {
     scroll-padding-top: 73.5px;
-    padding-left: 33.5px;
-    padding-right: 33.5px;
+    padding-left: 13.5px;
+    padding-right: 13.5px;
     padding-top: 73.5px;
     padding-bottom: 0;
   }
@@ -1549,8 +1550,8 @@ html {
   /* Contact me*/
   #contact {
     scroll-padding-top: 73.5px;
-    padding-left: 33.5px;
-    padding-right: 33.5px;
+    padding-left: 13.5px;
+    padding-right: 13.5px;
     padding-top: 73.5px;
     padding-bottom: 0;
   }
@@ -1573,5 +1574,10 @@ html {
   .contact h4 {
     display: inline-block;
     padding: 3px;
+  }
+}
+@media (max-width: 416px) {
+  body {
+    display: none;
   }
 }
