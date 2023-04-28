@@ -1,8 +1,10 @@
 /* This is the css file of ZibeBr in git repo my_portfolio */
+/*#region*/
 html {
   scroll-behavior: smooth;
 }
 @media (min-width: 1121.6px) {
+  /*#region*/
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -263,8 +265,10 @@ html {
     display: inline-block;
     padding: 3px;
   }
+  /*#endregion*/
 }
 @media (min-width: 848px) and (max-width: 1121.59px) {
+  /*#region*/
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -525,8 +529,10 @@ html {
     display: inline-block;
     padding: 3px;
   }
+  /*#endregion*/
 }
 @media (min-width: 801px) and (max-width: 847.9px) {
+  /*#region*/
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -786,8 +792,10 @@ html {
     display: inline-block;
     padding: 3px;
   }
+  /*#endregion*/
 }
 @media (min-width: 703px) and (max-width: 800.9px) {
+  /*#region*/
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -1048,8 +1056,10 @@ html {
     display: inline-block;
     padding: 3px;
   }
+  /*#endregion*/
 }
 @media (max-width: 702.9px) and (min-width: 555px) {
+  /*#region*/
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -1311,8 +1321,10 @@ html {
     display: inline-block;
     padding: 3px;
   }
+  /*#endregion*/
 }
 @media (max-width: 554.9px) and (min-width: 360px) {
+  /*#region*/
   /* Text css*/
   body {
     background-color: rgb(30, 30, 30);
@@ -1575,9 +1587,13 @@ html {
     display: inline-block;
     padding: 3px;
   }
+  /*#endregion*/
 }
 @media (max-width: 359.9px) {
+  /*#region*/
   body {
     display: none;
   }
+  /*#endregion*/
 }
+/*#endregion*/
