@@ -40,13 +40,13 @@ html {
   h2 {
     font-size: 37px;
   }
-  h3 {
+  h6 {
     font-size: 34px;
   }
-  h4 {
+  h3 {
     font-size: 25px;
   }
-  h5 {
+  h4 {
     font-size: 18px;
     color: #000;
     text-align: right;
@@ -159,7 +159,7 @@ html {
   .about-info p {
     transition: color 300ms;
   }
-  .about-info h4 {
+  .about-info h3 {
     transition: color 300ms;
     display: inline-block;
   }
@@ -170,7 +170,7 @@ html {
   .about-info:hover p {
     color: #000;
   }
-  .about-info:hover h4 {
+  .about-info:hover h3 {
     color: #000;
   }
 
@@ -232,7 +232,7 @@ html {
   .cv-card p {
     color: #000;
   }
-  .cv-card h4 {
+  .cv-card h3 {
     color: #000;
   }
 
@@ -260,7 +260,7 @@ html {
     width: 22px;
     display: inline-block;
   }
-  .contact h4 {
+  .contact h3 {
     display: inline-block;
     padding: 3px;
   }
@@ -303,13 +303,13 @@ html {
   h2 {
     font-size: 30px;
   }
-  h3 {
+  h6 {
     font-size: 26px;
   }
-  h4 {
+  h3 {
     font-size: 20px;
   }
-  h5 {
+  h4 {
     font-size: 15px;
     color: #000;
     text-align: right;
@@ -422,7 +422,7 @@ html {
   .about-info p {
     transition: color 300ms;
   }
-  .about-info h4 {
+  .about-info h3 {
     transition: color 300ms;
     display: inline-block;
   }
@@ -433,7 +433,7 @@ html {
   .about-info:hover p {
     color: #000;
   }
-  .about-info:hover h4 {
+  .about-info:hover h3 {
     color: #000;
   }
 
@@ -495,7 +495,7 @@ html {
   .cv-card p {
     color: #000;
   }
-  .cv-card h4 {
+  .cv-card h3 {
     color: #000;
   }
 
@@ -523,7 +523,7 @@ html {
     width: 14.5px;
     display: inline-block;
   }
-  .contact h4 {
+  .contact h3 {
     display: inline-block;
     padding: 3px;
   }
@@ -566,13 +566,13 @@ html {
   h2 {
     font-size: 27px;
   }
-  h3 {
+  h6 {
     font-size: 23px;
   }
-  h4 {
+  h3 {
     font-size: 18px;
   }
-  h5 {
+  h4 {
     font-size: 14px;
     color: #000;
     text-align: right;
@@ -684,7 +684,7 @@ html {
   .about-info p {
     transition: color 300ms;
   }
-  .about-info h4 {
+  .about-info h3 {
     transition: color 300ms;
     display: inline-block;
   }
@@ -695,7 +695,7 @@ html {
   .about-info:hover p {
     color: #000;
   }
-  .about-info:hover h4 {
+  .about-info:hover h3 {
     color: #000;
   }
 
@@ -757,7 +757,7 @@ html {
   .cv-card p {
     color: #000;
   }
-  .cv-card h4 {
+  .cv-card h3 {
     color: #000;
   }
 
@@ -785,7 +785,7 @@ html {
     width: 14.5px;
     display: inline-block;
   }
-  .contact h4 {
+  .contact h3 {
     display: inline-block;
     padding: 3px;
   }
@@ -828,13 +828,13 @@ html {
   h2 {
     font-size: 1.7em;
   }
-  h3 {
+  h6 {
     font-size: 1.5em;
   }
-  h4 {
+  h3 {
     font-size: 1.15em;
   }
-  h5 {
+  h4 {
     font-size: 0.85em;
     color: #000;
     text-align: right;
@@ -947,7 +947,7 @@ html {
   .about-info p {
     transition: color 300ms;
   }
-  .about-info h4 {
+  .about-info h3 {
     transition: color 300ms;
     display: inline-block;
   }
@@ -958,7 +958,7 @@ html {
   .about-info:hover p {
     color: #000;
   }
-  .about-info:hover h4 {
+  .about-info:hover h3 {
     color: #000;
   }
 
@@ -1020,7 +1020,7 @@ html {
   .cv-card p {
     color: #000;
   }
-  .cv-card h4 {
+  .cv-card h3 {
     color: #000;
   }
 
@@ -1048,7 +1048,7 @@ html {
     width: 14.5px;
     display: inline-block;
   }
-  .contact h4 {
+  .contact h3 {
     display: inline-block;
     padding: 3px;
   }
@@ -1067,7 +1067,7 @@ html {
   p {
     color: #ffff;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.75em;
+    font-size: 0.9em;
     font-weight: 300;
   }
   h1,
@@ -1091,13 +1091,13 @@ html {
   h2 {
     font-size: 1.4em;
   }
-  h3 {
+  h6 {
     font-size: 1.25em;
   }
-  h4 {
+  h3 {
     font-size: 1.1em;
   }
-  h5 {
+  h4 {
     font-size: 0.8em;
     color: #000;
     text-align: right;
@@ -1211,7 +1211,7 @@ html {
   .about-info p {
     transition: color 300ms;
   }
-  .about-info h4 {
+  .about-info h3 {
     transition: color 300ms;
     display: inline-block;
   }
@@ -1222,7 +1222,7 @@ html {
   .about-info:hover p {
     color: #000;
   }
-  .about-info:hover h4 {
+  .about-info:hover h3 {
     color: #000;
   }
 
@@ -1284,7 +1284,7 @@ html {
   .cv-card p {
     color: #000;
   }
-  .cv-card h4 {
+  .cv-card h3 {
     color: #000;
   }
 
@@ -1312,7 +1312,7 @@ html {
     width: 14.5px;
     display: inline-block;
   }
-  .contact h4 {
+  .contact h3 {
     display: inline-block;
     padding: 3px;
   }
@@ -1331,7 +1331,7 @@ html {
   p {
     color: #ffff;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.75em;
+    font-size: 0.9em;
     font-weight: 300;
   }
   h1,
@@ -1355,13 +1355,13 @@ html {
   h2 {
     font-size: 1.4em;
   }
-  h3 {
+  h6 {
     font-size: 1.25em;
   }
-  h4 {
+  h3 {
     font-size: 1.1em;
   }
-  h5 {
+  h4 {
     font-size: 0.8em;
     color: #000;
     text-align: right;
@@ -1476,7 +1476,7 @@ html {
   .about-info p {
     transition: color 300ms;
   }
-  .about-info h4 {
+  .about-info h3 {
     transition: color 300ms;
     display: inline-block;
   }
@@ -1487,7 +1487,7 @@ html {
   .about-info:hover p {
     color: #000;
   }
-  .about-info:hover h4 {
+  .about-info:hover h3 {
     color: #000;
   }
 
@@ -1549,7 +1549,7 @@ html {
   .cv-card p {
     color: #000;
   }
-  .cv-card h4 {
+  .cv-card h3 {
     color: #000;
   }
 
@@ -1577,7 +1577,7 @@ html {
     width: 14.5px;
     display: inline-block;
   }
-  .contact h4 {
+  .contact h3 {
     display: inline-block;
     padding: 3px;
   }
